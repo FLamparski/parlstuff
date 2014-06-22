@@ -1,0 +1,19 @@
+{
+  "name": "parlstuff",
+  "version": "0.0.0",
+  "description": "Some stuff that I want to do with the Hansard",
+  "main": "parlstuff.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "parliament",
+    "hansard",
+    "uk"
+  ],
+  "author": "FLamparski",
+  "license": "ISC",
+  "dependencies": {
+    { "cheerio": "0.17.x" }
+  }
+}
